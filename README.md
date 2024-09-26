@@ -1,3 +1,29 @@
+## rmf_simulation (jazzy) - 2.3.2-1
+
+The packages in the `rmf_simulation` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy rmf_simulation --override-release-repository-push-url git@github.com:revyos-ros/rmf_simulation-release.git` on `Thu, 26 Sep 2024 04:47:08 -0000`
+
+These packages were released:
+- `rmf_building_sim_gz_plugins`
+- `rmf_robot_sim_common`
+- `rmf_robot_sim_gz_plugins`
+
+Version of package(s) in repository `rmf_simulation`:
+
+- upstream repository: https://github.com/open-rmf/rmf_simulation.git
+- release repository: https://github.com/revyos-ros/rmf_simulation-release.git
+- rosdistro version: `2.3.2-1`
+- old version: `null`
+- new version: `2.3.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rmf_simulation (humble) - 2.0.2-2
 
 The packages in the `rmf_simulation` repository were released into the `humble` distro by running `/usr/bin/bloom-release --override-release-repository-url=git@github.com:revyos-ros/rmf_simulation-release.git -r humble rmf_simulation` on `Thu, 30 May 2024 02:13:08 -0000`
