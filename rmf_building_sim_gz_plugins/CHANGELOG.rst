@@ -2,12 +2,34 @@
 Changelog for package rmf\_building\_sim\_gz\_plugins
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.0.2 (2023-06-30)
+2.3.2 (2024-06-15)
 ------------------
-* Use ``JointPositionReset`` for open loop door control (`#105 <https://github.com/open-rmf/rmf_simulation/issues/105>`_)
+
+2.3.1 (2024-06-12)
+------------------
+* Fix door drift in simulation (`#126 <https://github.com/open-rmf/rmf_simulation/pull/126>`_)
 * Contributors: Luca Della Vedova
 
-2.0.1 (2023-06-02)
+2.3.0 (2024-06-01)
+------------------
+* Port outdated actions to Noble (`#122 <https://github.com/open-rmf/rmf_simulation/pull/122>`_)
+* Refactor plugins in an ECS based way and migrate to Harmonic (`#114 <https://github.com/open-rmf/rmf_simulation/pull/114>`_)
+* Contributors: Arjo Chakravarty, Grey, Luca Della Vedova
+
+2.2.2 (2023-12-20)
+------------------
+* Sanitize node names to avoid plugin exceptions (`#110 <https://github.com/open-rmf/rmf_simulation/pull/110>`_)
+* Contributors: Luca Della Vedova
+
+2.2.1 (2023-06-30)
+------------------
+* Use ``JointPositionReset`` for open loop door control (`#98 <https://github.com/open-rmf/rmf_simulation/pull/98>`_)
+* Contributors: Luca Della Vedova
+
+2.2.0 (2023-06-08)
+------------------
+
+2.1.0 (2023-06-06)
 ------------------
 * Switch to rst changelogs (`#101 <https://github.com/open-rmf/rmf_simulation/pull/101>`_)
 * Contributors: Yadunund
